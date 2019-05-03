@@ -1,0 +1,46 @@
+
+<div id="tarif" class="container-fluid">
+  <div class="row">
+    <div class="col-sm-4">
+      <h2><strong>Recipe</strong></h2><br>
+      <h4><strong>Ingredients</strong></h4><br>
+    <ul>
+      <li>1 glass of warm water</li>
+      <li>1 glass of warm milk</li>
+      <li>1 tablespoon of granulated sugar</li>
+      <li>1 egg</li>
+      <li>1 package of instant yeast</li>
+      <li>3,5 - 4 glass of flour</li>
+    </ul>
+      <h4><strong>For the over of simit</strong></h4>
+    <ul>
+      <li>1 bowl of sesame seeds</li>
+      <li>2 tablespoon molasses mixed with 3 tablespoon water.</li>
+    </ul>
+    </div>
+    <div class="col-sm-8">
+      <img src="simit-cay.jpg" alt="simit">
+    </div>
+  </div>
+</div>
+
+
+
+
+
+<!-- Container (About Section) -->
+<div id="where" class="container-fluid">
+  <div class="row">
+    <div class="col-sm-4">
+      <h2><strong>From where can i find Turkish bagel?</strong></h2><br>
+      <h4><strong>country</strong></h4><br>
+    <ul>
+      <li>England</li>
+      <li>USA</li>
+      <li>Europa</li>
+      <li>Turkey</li>
+      <li>Asia</li>
+    </ul>
+    </div>
+  </div>
+</div>
